@@ -1,0 +1,55 @@
+{
+  "DataBase" :
+  [
+   {
+   "Name": "Name1",
+   "Enable": true,
+   "id" : "1",
+   "Address" : "street1",
+   "DataTupleArray": [
+    {
+      "x": 1, 
+      "y": 1, 
+      "z": 1
+    }, 
+    {
+      "x": 1, 
+      "y": 1, 
+      "z": 1
+    }
+   ],
+   "FavouriteColor": "red",
+   "Number": 1,
+   "PassportData": {
+     "HomeCountry": "UE",
+     "LivingCountry": "CA"
+   },
+   "CommentString": "NA"   
+   },
+   {
+   "Name": "Name2",
+   "Enable": true,
+   "id" : "2",
+   "Address" : "street2",
+   "DataTupleArray": [
+    {
+      "x": 2, 
+      "y": 2, 
+      "z": 2
+    }, 
+    {
+      "x": 2, 
+      "y": 2, 
+      "z": 2
+    }
+    ],
+   "FavouriteColor": "red",
+   "Number": 2,
+   "PassportData": {
+     "HomeCountry": "UE",
+     "LivingCountry": "CA"
+   },
+   "CommentString": "NA"
+   }
+  ]
+}
